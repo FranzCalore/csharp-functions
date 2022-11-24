@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFunctions", "CSharpFunctions\CSharpFunctions.csproj", "{CDE33178-8A18-4123-9767-6A792303A217}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpFunctions", "CSharpFunctions\CSharpFunctions.csproj", "{CDE33178-8A18-4123-9767-6A792303A217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus", "Bonus\Bonus.csproj", "{1F982242-FB63-4FAF-AD0C-B903951C9BB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CDE33178-8A18-4123-9767-6A792303A217}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDE33178-8A18-4123-9767-6A792303A217}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDE33178-8A18-4123-9767-6A792303A217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F982242-FB63-4FAF-AD0C-B903951C9BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F982242-FB63-4FAF-AD0C-B903951C9BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F982242-FB63-4FAF-AD0C-B903951C9BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F982242-FB63-4FAF-AD0C-B903951C9BB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
